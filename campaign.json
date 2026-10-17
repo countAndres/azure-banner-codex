@@ -1,0 +1,16 @@
+{
+  "campaign_name": "Shadows over Comuna",
+  "active_location": "Comuna 13",
+  "player_character": {
+    "name": "Kaelen",
+    "class": "Paladin",
+    "level": 4,
+    "gold": 200,
+    "inventory": [
+      "Shield",
+      "Steel Longsword",
+      "Jar of glowing blue grease"
+    ]
+  },
+  "current_quest": "Find the missing informant near the basketball court."
+}
