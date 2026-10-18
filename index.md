@@ -9,8 +9,8 @@
 **To resume the campaign:**
 
 1. Read this `index.md` for structure and continuity rules.
-2. Read [`azure_banner_day_14_memory.json`](azure_banner_day_14_memory.json) for the latest recorded characters, assets, shared money, location, and open mission state.
-3. Read [`day-14.md`](azure_banner_days_08-14/day-14.md) and, if needed, [`day-13.md`](azure_banner_days_08-14/day-13.md) for the immediate circumstances leading into the next scene.
+2. Read [`campaign.json`](campaign.json) for the latest recorded characters, assets, shared money, location, and open mission state.
+3. Read [`day-14.md`](day-14.md) and, if needed, [`day-13.md`](day-13.md) for the immediate circumstances leading into the next scene.
 4. Consult [`scraps.md`](scraps.md) for small character details, NPC mannerisms, deferred plans, loose ends, and atmosphere.
 5. Open earlier daily logs **as relevant to a returning person, place, clue, or player question**; there is usually no need to load every file at once.
 
@@ -20,12 +20,12 @@
 
 | File | What it contains | When to use it |
 | --- | --- | --- |
-| [`azure_banner_day_14_memory.json`](azure_banner_day_14_memory.json) | Structured party snapshot at the end of Zazesspur Day 14: the three PCs, possessions, shared purse, companions, location, active quest, and notable world state. | Restore the **recorded current state**. |
+| [`campaign.json`](campaign.json) | Structured party snapshot at the end of Zazesspur Day 14: the three PCs, possessions, shared purse, companions, location, active quest, and notable world state. | Restore the **recorded current state**. |
 | [`scraps.md`](scraps.md) | Small continuity facts, NPC quirks, inside jokes, meaningful minor items, background lore, open promises, and reserved future ideas. | Preserve flavor and catch details absent from formal summaries. |
-| [`azure_banner_days_01-07/`](azure_banner_days_01-07/day-01.md) | Seven daily logs for the opening Valespada–Darromar/Black Antler storyline. | Retrieve the party's earliest experiences and relationships. |
-| [`between-darromar-and-zazesspur.md`](azure_banner_days_08-14/between-darromar-and-zazesspur.md) | **Multi-day** bridge: Darromar aftermath, westbound caravan, magical tutelage, and early Zazesspur work (including Zazesspur Day 07). | Connect the opening adventure to the later city storyline. |
-| [`azure_banner_days_08-14/`](azure_banner_days_08-14/day-08.md) | Seven daily logs labeled Zazesspur Days 08–14: Whitewater investigations and the Mavros mission. | Reconstruct the recent plot, decisions, and evidence chain. |
-| [`azure_banner_days_08-14/README.md`](azure_banner_days_08-14/README.md) | Notes about the second set's chronology and numbering. | Resolve apparent conflicts between the two day sequences. |
+| [`day-01.md`–`day-07.md`](day-01.md) | Seven daily logs for the opening Valespada–Darromar/Black Antler storyline. | Retrieve the party's earliest experiences and relationships. |
+| [`between-darromar-and-zazesspur.md`](between-darromar-and-zazesspur.md) | **Multi-day** bridge: Darromar aftermath, westbound caravan, magical tutelage, and early Zazesspur work (including Zazesspur Day 07). | Connect the opening adventure to the later city storyline. |
+| [`day-08.md`–`day-14.md`](day-08.md) | Seven daily logs labeled Zazesspur Days 08–14: Whitewater investigations and the Mavros mission. | Reconstruct the recent plot, decisions, and evidence chain. |
+| [`README.md`](README.md) | Notes about the second set's chronology and numbering. | Resolve apparent conflicts between the two day sequences. |
 
 ## Chronological navigation
 
@@ -33,27 +33,27 @@
 
 | Day | Log | Main focus |
 | --- | --- | --- |
-| 01 | [`day-01.md`](azure_banner_days_01-07/day-01.md) | Departure from Valespada; the road east. |
-| 02 | [`day-02.md`](azure_banner_days_01-07/day-02.md) | Three Reeds and Tomas Rell's report. |
-| 03 | [`day-03.md`](azure_banner_days_01-07/day-03.md) | Looking for work in Darromar; the Corza job. |
-| 04 | [`day-04.md`](azure_banner_days_01-07/day-04.md) | Corza farm, Blue Tollhouse, Marda, and Skit. |
-| 05 | [`day-05.md`](azure_banner_days_01-07/day-05.md) | Bruk's search party and the flight toward sanctuary. |
-| 06 | [`day-06.md`](azure_banner_days_01-07/day-06.md) | Tessen family rescue and new allies. |
-| 07 | [`day-07.md`](azure_banner_days_01-07/day-07.md) | Pursuit to Bellwether Fold; Ragha and Bruk captured. |
+| 01 | [`day-01.md`](day-01.md) | Departure from Valespada; the road east. |
+| 02 | [`day-02.md`](day-02.md) | Three Reeds and Tomas Rell's report. |
+| 03 | [`day-03.md`](day-03.md) | Looking for work in Darromar; the Corza job. |
+| 04 | [`day-04.md`](day-04.md) | Corza farm, Blue Tollhouse, Marda, and Skit. |
+| 05 | [`day-05.md`](day-05.md) | Bruk's search party and the flight toward sanctuary. |
+| 06 | [`day-06.md`](day-06.md) | Tessen family rescue and new allies. |
+| 07 | [`day-07.md`](day-07.md) | Pursuit to Bellwether Fold; Ragha and Bruk captured. |
 
-**Required transition:** [`Interlude — Darromar to Zazesspur`](azure_banner_days_08-14/between-darromar-and-zazesspur.md). This records several intervening days and the initial Zazesspur jobs; it is **not** one extra day.
+**Required transition:** [`Interlude — Darromar to Zazesspur`](between-darromar-and-zazesspur.md). This records several intervening days and the initial Zazesspur jobs; it is **not** one extra day.
 
 ### Zazesspur-local sequence
 
 | Day label | Log | Main focus |
 | --- | --- | --- |
-| 08 | [`day-08.md`](azure_banner_days_08-14/day-08.md) | A working day at The Low Arch; crafting and preparations. |
-| 09 | [`day-09.md`](azure_banner_days_08-14/day-09.md) | Stolen customs ledger, Brant, Miv, and the Drowned Heron. |
-| 10 | [`day-10.md`](azure_banner_days_08-14/day-10.md) | Old Chain Baths and the Whitewater relay. |
-| 11 | [`day-11.md`](azure_banner_days_08-14/day-11.md) | North Tally, Marris Pell, and falsified records. |
-| 12 | [`day-12.md`](azure_banner_days_08-14/day-12.md) | Assignment to find Aldren Mavros; northbound departure. |
-| 13 | [`day-13.md`](azure_banner_days_08-14/day-13.md) | Survey depot, chain hut, and Mavros rescue. |
-| 14 | [`day-14.md`](azure_banner_days_08-14/day-14.md) | Return-road ambushes; prisoners and evidence delivered to Zazesspur. |
+| 08 | [`day-08.md`](day-08.md) | A working day at The Low Arch; crafting and preparations. |
+| 09 | [`day-09.md`](day-09.md) | Stolen customs ledger, Brant, Miv, and the Drowned Heron. |
+| 10 | [`day-10.md`](day-10.md) | Old Chain Baths and the Whitewater relay. |
+| 11 | [`day-11.md`](day-11.md) | North Tally, Marris Pell, and falsified records. |
+| 12 | [`day-12.md`](day-12.md) | Assignment to find Aldren Mavros; northbound departure. |
+| 13 | [`day-13.md`](day-13.md) | Survey depot, chain hut, and Mavros rescue. |
+| 14 | [`day-14.md`](day-14.md) | Return-road ambushes; prisoners and evidence delivered to Zazesspur. |
 
 ### Important day-numbering warning
 
@@ -87,30 +87,30 @@ The opening **Darromar Day 07** and the later **Zazesspur Day 08** are **not con
 - **Index:** Update the quick handoff, file links, and chronology note when a new installment is added or a conflict is reconciled.
 - **Review:** Have the player confirm questionable reconstructions before promoting them to accepted campaign continuity.
 
-## Suggested repository layout
+## Current GitHub repository layout
+
+The files in the GitHub repository currently reside **directly at the repository root**, not inside the original ZIP package's two day-range folders. Relative links in this index follow the flat layout.
 
 ```text
 index.md
-azure_banner_day_14_memory.json
+campaign.json
 scraps.md
-azure_banner_days_01-07/
-    day-01.md
-    day-02.md
-    day-03.md
-    day-04.md
-    day-05.md
-    day-06.md
-    day-07.md
-azure_banner_days_08-14/
-    README.md
-    between-darromar-and-zazesspur.md
-    day-08.md
-    day-09.md
-    day-10.md
-    day-11.md
-    day-12.md
-    day-13.md
-    day-14.md
+README.md
+between-darromar-and-zazesspur.md
+day-01.md
+day-02.md
+day-03.md
+day-04.md
+day-05.md
+day-06.md
+day-07.md
+day-08.md
+day-09.md
+day-10.md
+day-11.md
+day-12.md
+day-13.md
+day-14.md
 ```
 
 **Scope boundary:** No Day 15 scenes, Hall of Measures meeting outcome, new purchases, new payment, or future Azure Banner organization has been established by this snapshot. Let the next session determine what actually happens.
