@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0",
+  "campaign_name": "Azure Banner",
+  "snapshot_day": 14,
+  "snapshot_point": "End of Day 14, before the next morning's Hall of Measures meeting",
+  "active_location": {
+    "city": "Zazesspur",
+    "region": "Tethyr, Forgotten Realms",
+    "lodging": "The Low Arch",
+    "status": "Party returned to the inn after reporting the Mavros rescue and turning over captives and evidence."
+  },
+  "player_character": [
+    {
+      "name": "Gaspar Espada",
+      "species": "Human",
+      "class": "Fighter",
+      "subclass": "Eldritch Knight",
+      "level": 4,
+      "max_hit_points": 32,
+      "gold": {
+        "account": "shared_party_purse",
+        "individual_balance": null
+      },
+      "inventory": [
+        "Chain mail",
+        "Shield bearing the device of House Espada",
+        "Ancestral one-handed arming sword (Heirloom Craftsmanship)",
+        "4 throwing handaxes",
+        "Dagger",
+        "Smith's Tools",
+        "Dungeoneer's Pack",
+        "Bedroll",
+        "Blanket",
+        "Grappling hook",
+        "Traveler's clothes",
+        "Fine clothes",
+        "Annotated arcane study book and handwritten formulae",
+        "Pouch of experimental magical materials",
+        "House Espada signet ring/seal",
+        "Magic Missile spell scroll (transferred from Edric)"
+      ]
+    },
+    {
+      "name": "Pip Underbough",
+      "species": "Halfling",
+      "class": "Rogue",
+      "subclass": "Arcane Trickster",
+      "level": 4,
+      "max_hit_points": 27,
+      "gold": {
+        "account": "shared_party_purse",
+        "individual_balance": null
+      },
+      "inventory": [
+        "Leather armor",
+        "Original shortsword",
+        "Second shortsword forged by Gaspar (now carried; paired-shortsword fighting style)",
+        "2 daggers (backup weapons)",
+        "Shortbow",
+        "Quiver and arrows (exact remaining count not reconciled after Day 14 shots)",
+        "Thieves' Tools",
+        "Spell component pouch gifted by Ilvarren Thale",
+        "Traveler's clothes and spare clothing",
+        "Burglar's Pack (normally stored in cart)",
+        "Cartographer's Tools (normally stored in cart)",
+        "Carpenter's Tools (normally stored in cart)",
+        "Cobbler's Tools (normally stored in cart)",
+        "Weaver's Tools (normally stored in cart)",
+        "Bedroll, blanket and sleeping pallet",
+        "Maps, ledger, records, parchment and bookkeeping supplies",
+        "Tags, cord and chalk"
+      ]
+    },
+    {
+      "name": "Edric Vale",
+      "species": "Human",
+      "class": "Wizard",
+      "subclass": "Evoker",
+      "level": 4,
+      "max_hit_points": 22,
+      "gold": {
+        "account": "shared_party_purse",
+        "individual_balance": null
+      },
+      "inventory": [
+        "Spellbook",
+        "Quarterstaff (spellcasting focus)",
+        "2 daggers",
+        "Robe",
+        "Traveler's clothes",
+        "Calligrapher's Supplies",
+        "History book",
+        "Parchment, ink and writing materials",
+        "Scholar's Pack (normally stored in cart)"
+      ]
+    }
+  ],
+  "shared_gold": {
+    "gp": 520,
+    "sp": 4,
+    "cp": 5,
+    "treasurer": "Pip Underbough",
+    "last_explicitly_reconciled_day": 12,
+    "accounting_note": "Latest confirmed balance after Day 12 road resupply. No later expenditure or income is confirmed; the Mavros mission reward has not yet been paid. Treat as the latest confirmed balance, not a new Day 14 audit."
+  },
+  "party_assets_and_companions": {
+    "companions": [
+      {
+        "name": "Nib",
+        "description": "Goblin companion",
+        "status": "Returned to The Low Arch"
+      },
+      {
+        "name": "Ripper",
+        "description": "Wolf companion associated with Nib",
+        "status": "Returned to The Low Arch"
+      },
+      {
+        "name": "Vesper",
+        "description": "Edric's owl familiar",
+        "status": "With the party"
+      }
+    ],
+    "mounts": [
+      {
+        "name": "Lucero",
+        "description": "Gaspar's personal riding horse",
+        "status": "Wounded by a thrown knife during the Day 14 road attack; exact end-of-day injury status not reconciled"
+      },
+      {
+        "name": "Castaña",
+        "description": "Party draft horse",
+        "status": "Returned with the cart"
+      }
+    ],
+    "vehicle": {
+      "type": "Modified two-wheeled cart",
+      "features": [
+        "Fitted canvas cover",
+        "Padded sleeping rack",
+        "Padded wine-storage fittings"
+      ],
+      "estimated_empty_weight_lb": 265,
+      "last_recorded_loose_cargo_weight_lb": 330,
+      "note": "These cart-weight estimates were recorded earlier; exact Day 14 load is not recalculated."
+    },
+    "future_acquisitions_not_yet_owned": [
+      "Proper wagon",
+      "Additional draft horse besides Castaña",
+      "Riding horse for Edric",
+      "Felling axe for Gaspar"
+    ]
+  },
+  "current_quest": {
+    "name": "Whitewater conspiracy / Aldren Mavros investigation",
+    "status": "Day 14 rescue-and-return objective completed; broader Whitewater inquiry active",
+    "quest_giver": "Deputy Tallymaster Orsana Mere, Zazesspur",
+    "completed_at_day_14_end": [
+      "Located and rescued Deputy Road Surveyor Aldren Mavros alive following investigation of the North Road Survey Depot and the chain hut",
+      "Returned to Zazesspur with Mavros and six living captives",
+      "Delivered captured suspects and the preserved evidence into official custody",
+      "Stopped a staged road obstruction on the return journey and recovered the south runner's message tube"
+    ],
+    "next_step": "Attend the Hall of Measures summons on the morning of Day 15 to meet a higher Crown-appointed authority concerning trade-road security and bonded records.",
+    "reward_status": "Deputy Mere promised separate compensation for the Mavros operation and live captures, but the amount has not yet been settled or paid.",
+    "broader_plot": "Whitewater-related activity connects the stolen customs ledger, altered North Tally records, and interference with road surveying and communications."
+  },
+  "world_state": {
+    "important_npcs": [
+      {
+        "name": "Aldren Mavros",
+        "role": "Deputy Road Surveyor",
+        "status": "Rescued alive and returned to Zazesspur"
+      },
+      {
+        "name": "Orsana Mere",
+        "role": "Deputy Tallymaster",
+        "status": "Current official contact; promised mission compensation"
+      },
+      {
+        "name": "Halda Veyr",
+        "role": "Proprietress of The Low Arch",
+        "status": "Party's current innkeeper"
+      }
+    ],
+    "custody_and_evidence": "Six captives and the Mavros/road-operation evidence are with Zazesspur authorities; they are not party inventory.",
+    "pending_event": "Morning of Day 15: summons at the Hall of Measures",
+    "continuity_notes": [
+      "Safe Long Rests apply in secure sites, including appropriate inns; unsafe wilderness overnight stays use limited Excursion Rest rules.",
+      "All three player-character level-4 discretionary advancements are finalized; proposed future level-up choices are provisional until user review.",
+      "Do not treat planned wagon, horses, felling axe, or unpaid mission reward as acquired."
+    ]
+  }
+}
